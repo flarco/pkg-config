@@ -8,6 +8,7 @@ git clone https://github.com/flarco/pkg-config.git
 ```
 - Unzip `pkg-config_windows.zip` to `programs\pkg-config`
 - Add `programs\pkg-config` the PATH env
+- Add `programs\pkg-config\gcc-core-5.3.0-2-mingw32-bin\bin` the PATH env
 - Set env `PKG_CONFIG_PATH=programs\pkg-config\configs`
 
 
