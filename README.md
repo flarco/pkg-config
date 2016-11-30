@@ -3,6 +3,9 @@ Installation for pkg-config
 
 
 ## Windows
+```
+git clone https://github.com/flarco/pkg-config.git
+```
 - Unzip `pkg-config_windows.zip` to `programs\pkg-config`
 - Add `programs\pkg-config` the PATH env
 
